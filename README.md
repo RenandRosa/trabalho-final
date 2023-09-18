@@ -19,4 +19,4 @@ Para sair do programa digite 6.
 
 # Autores #
 
-Este tutorial foi criado por João Felipe M. F., Bruno Wesley e Renan da Rosa. Você pode entrar em contato com os autores por e-mail em joaofelipe.manfel@gmail.com, brunotatsch1986@gmail.com e rosa.renan@gmail.com.
+Este tutorial foi criado por João Felipe M. F., Bruno Wesley e Renan da Rosa. Você pode entrar em contato com os autores por e-mail em joaofelipe.manfel@gmail.com, brunotatsch1986@gmail.com e rosa.renanr@gmail.com.
